@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Mentors-Outlook/static/css/main.b647143e.css",
+    "main.js": "/Mentors-Outlook/static/js/main.0aeabb2e.js",
+    "static/js/453.b646027b.chunk.js": "/Mentors-Outlook/static/js/453.b646027b.chunk.js",
+    "static/media/home.mp4": "/Mentors-Outlook/static/media/home.d7ca3c885d770e8482b6.mp4",
+    "static/media/mo-logo.png": "/Mentors-Outlook/static/media/mo-logo.540bab1b1b2dd46e2ac9.png",
+    "index.html": "/Mentors-Outlook/index.html",
+    "main.b647143e.css.map": "/Mentors-Outlook/static/css/main.b647143e.css.map",
+    "main.0aeabb2e.js.map": "/Mentors-Outlook/static/js/main.0aeabb2e.js.map",
+    "453.b646027b.chunk.js.map": "/Mentors-Outlook/static/js/453.b646027b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b647143e.css",
+    "static/js/main.0aeabb2e.js"
+  ]
+}
